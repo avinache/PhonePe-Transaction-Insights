@@ -5,7 +5,7 @@ Conduct a comprehensive analysis of transaction patterns, user engagement trends
 India's digital payments landscape has garnered global attention, evolving rapidly across both metropolitan centers and remote rural areas. This transformation is fueled by widespread mobile penetration, affordable internet access, and a robust public digital infrastructure, spearheaded by the government and the Reserve Bank of India. Launched in 2016, PhonePe has significantly benefited from this API-driven digital ecosystem.
 In light of this growing reliance on platforms like PhonePe, our analysis will delve into transaction patterns, user engagement levels, and insurance-linked data. The study will feature visual representations of payment trends across various states and districts, with an emphasis on highlighting top-performing regions and PIN codes.
 
-To initiate our analysis, we begin by accessing the dataset available via a Git repository. This dataset is well-structured and categorized into three primary segments—Transactions, Users, and Insurance—based on the data available under the Explore tab of PhonePe Pulse.
+To initiate our analysis, we begin by accessing the dataset available via a ** Git repository **. This dataset is well-structured and categorized into three primary segments—Transactions, Users, and Insurance—based on the data available under the Explore tab of PhonePe Pulse.
 
 The data is organized into three main formats:
 
